@@ -2,4 +2,4 @@
 
 echo "hello world"
 
-echo "ici c'est paris"
+echo "ici c'est bamako"
